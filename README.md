@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hakimi0804
-- 🌱 I’m currently learning python but laziness took over lmao
+- 🌱 I’m currently learning js, css, html.
 - 📫 How to reach me: [telegram](https://t.me/Hakimi0804)
 
 <!---
