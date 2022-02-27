@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Hakimi0804
-<!-- - 🌱 I’m currently learning js, css, html. -->
-- 📫 How to reach me: [telegram](https://t.me/Hakimi0804)
-<!-- - many thanks to [safeboot](https://github.com/safeboot) for assisting and motivating me and [volkanogeday](https://github.com/VOLKANOGEDAY). -->
+Usually when i do something "temporary" it'd become permanent until it's broken again soo...
 
-<!---
-Hakimi0804/Hakimi0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me out on [telegram](https://t.me/Hakimi0804)
+
+Note: I am generally open to PMs but if your PM is something like "How to root", "How to unlock bootloader", "X ROM doesn't work" your PM will simply be ignored. I may also ignore your PM if it's a spam/something useless/scam/whatever I don't feel like dealing with.
